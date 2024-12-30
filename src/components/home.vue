@@ -63,7 +63,7 @@ let content = ref({
 							<strong>EXCAVATORS</strong>
 							<strong>LOADERS</strong>
 							<strong>GRADERS</strong>
-							<strong>Forklifts</strong>
+							<strong>FORKLIFTS</strong>
 							<strong>GENERATOR SETS</strong>
 						</p>
 						<p>

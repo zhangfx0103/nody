@@ -150,7 +150,7 @@ const changeImg = (e: any) => {
 						font-size: 16px;
 						margin: 0;
 						display: -webkit-box;
-						-webkit-line-clamp: 4;
+						-webkit-line-clamp: 5;
 						-webkit-box-orient: vertical;
 						text-overflow: ellipsis;
 						overflow: hidden;
