@@ -147,7 +147,7 @@ const changeImg = (e: any) => {
 						align-items: center; /* 垂直居中 */
 					}
 					p {
-						font-size: 16px;
+						font-size: 14px;
 						margin: 0;
 						display: -webkit-box;
 						-webkit-line-clamp: 5;
