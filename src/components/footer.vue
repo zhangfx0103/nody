@@ -20,7 +20,7 @@
 		<div class="footer-links">
 			<span>bjkpl@bjkpl.cn</span>
 			<span>www.bjkpl168.com</span>
-			<span>京ICP备2023032403号-2</span>
+			<span><a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2023032403号-2</a></span>
 			<span>1001 Guanghua Building, No. 8 Guanghua Road, Chaoyang District, Beijing</span>
 		</div>
 	</div>
@@ -48,6 +48,13 @@
 			// height: 40px;
 			line-height: 35px;
 			box-sizing: border-box;
+			a {
+				color: #fff;
+				text-decoration: none;
+				&:hover {
+					color: #bbb;
+				}
+			}
 		}
 	}
 	// .footer-text-left {
