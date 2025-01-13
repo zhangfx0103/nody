@@ -20,6 +20,7 @@
 		<div class="footer-links">
 			<span>bjkpl@bjkpl.cn</span>
 			<span>www.bjkpl168.com</span>
+			<span>京ICP备2023032403号-2</span>
 			<span>1001 Guanghua Building, No. 8 Guanghua Road, Chaoyang District, Beijing</span>
 		</div>
 	</div>
